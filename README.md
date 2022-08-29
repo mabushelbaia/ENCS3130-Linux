@@ -1,7 +1,8 @@
 ### ENCS3130 Linux Labratory
 
 ```
-Everything revelanto to ENCS3130 Linux Labratory.
+Everything relevant to ENCS3130 Linux Laboratory.
+
 ```
 
 - Shell Project: https://github.com/mabushelbaia/linux-shell-project
