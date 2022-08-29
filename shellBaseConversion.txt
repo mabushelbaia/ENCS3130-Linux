@@ -1,0 +1,26 @@
+Decimal to Hexadecimal
+10->A
+echo 'obase=16;10'| bc
+Or
+wcalc -h 10
+
+Decimal to Octal
+10->12
+echo 'obase=8;10' | bc
+Or
+wcalc -o 10
+
+Decimal to Binary
+10->1010
+echo 'obase=2;10' | bc
+Or
+wcalc -b 10
+
+From Hexadecimal to Decimal
+echo 'ibase=16;A' | bc (case sensitive)
+
+From Octal to Decimal
+echo 'ibase=8;12' | bc
+
+From Binary to Decimal
+echo 'ibase=2;1010' | bc
