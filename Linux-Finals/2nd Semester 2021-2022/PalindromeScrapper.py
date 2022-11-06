@@ -1,3 +1,4 @@
+#Question: Write a program to scrap the palindrome words from a text file.
 try:
     filename = input("Enter filename: ")
     file = open(filename, "r")
