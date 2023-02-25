@@ -1,5 +1,1 @@
-### ENCS3130 Linux Labratory
-
-```
-Everything relevant to ENCS3130 Linux Laboratory.
-```
+## ENCS3130 Linux Labratory
